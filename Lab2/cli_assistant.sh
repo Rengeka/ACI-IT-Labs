@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 MAX_TRIES=3
 TRIES=0
 NAME=""
