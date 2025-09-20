@@ -4,25 +4,25 @@
 
 Скачиваем установщик Virtual Box (https://www.virtualbox.org/wiki/Downloads) и проходим последовательно все необходимые шаги для установки
 
-![Virtual Box](images/VirtualBox.png)
+![Virtual Box](../Lab1/Images/VirtualBox.png)
 
 ### Скачивание образа убунту
 
 Заходим на официальный сайт Canonical (https://ubuntu.com/download/desktop) и сказываем .iso файл desktop версии Ubunutu
 
-![Chrome](images/ubuntu-site.png)
+![Chrome](../Lab1/Images/ubuntu-site.png)
 
 ### Создаём виртуальную машину
 
 Нажимаем кнопку создать в Virtual Box и проходим все шаги по конфгурации виритуальной машины. После её создания, выключаем её и заходим в настройки. Там увеличиваем ей видеопамять и включаем 3D-Ускорение
 
-![Virtual Box](images/vm-settings.png)
+![Virtual Box]( ../Lab1/Images/vm-settings.png)
 
 ### Установка убунту
 
 Включаем виртуальную машину и запускем графический установщик. Проходим необходимые шаги и перезагружаем виртуальную машину
 
-![Virtual Box](images/ubuntu-desktop.png)
+![Virtual Box](../Lab1/Images/ubuntu-desktop.png)
 
 
 Виртуальная машина готова
