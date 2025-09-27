@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SOURCE=$1
 BACKUP=$2
 
